@@ -1,1 +1,1 @@
-"SELECT * FROM customers;" 
+"SELECT * FROM customers WHERE country = 'Germany';" 
