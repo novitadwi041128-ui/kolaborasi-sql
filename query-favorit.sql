@@ -1,3 +1,3 @@
-select first_name, city
-from customers
-where first_name = 'Siti' or city = 'Jakarta';
+SELECT first_name, city
+FROM customers
+WHERE first_name = 'Siti' OR city = 'Jakarta';
